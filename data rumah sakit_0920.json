@@ -1,0 +1,116 @@
+{
+    "dokter": [
+        {
+            "nama": "Dr. Asep",
+            "spesialisasi": "Reumatologi"
+        },
+        {
+            "nama": "Dr. Budi",
+            "spesialisasi": "Penyakit dalam"
+        },
+        {
+            "nama": "Dr. Citra",
+            "spesialisasi": "Gastroenterologi"
+        },
+        {
+            "nama": "Dr. Dewi",
+            "spesialisasi": "Pediatri"
+        },
+        {
+            "nama": "Dr. Eka",
+            "spesialisasi": "Ortopedi"
+        },
+        {
+            "nama": "Dr. Fajar",
+            "spesialisasi": "Ginekologi"
+        },
+        {
+            "nama": "Dr. Galih",
+            "spesialisasi": "Urologi"
+        },
+        {
+            "nama": "Dr. Hadi",
+            "spesialisasi": "Onkologi"
+        },
+        {
+            "nama": "Dr. Indah",
+            "spesialisasi": "Psikiatri"
+        },
+        {
+            "nama": "Dr. Joko",
+            "spesialisasi": "Endokrinologi"
+        }
+    ],
+    "pasien": [
+        {
+            "nama": "Ahmad",
+            "umur": 30,
+            "alamat": "Jl. Kebon Jeruk",
+            "penyakit": "Asam urat",
+            "tanggal_masuk": "2024-01-01"
+        },
+        {
+            "nama": "Beni",
+            "umur": 25,
+            "alamat": "Jl. Mangga Dua",
+            "penyakit": "Tipes",
+            "tanggal_masuk": "2024-02-15"
+        },
+        {
+            "nama": "Cici",
+            "umur": 40,
+            "alamat": "Jl. Sudirman",
+            "penyakit": "Darah tinggi",
+            "tanggal_masuk": "2024-03-20"
+        },
+        {
+            "nama": "Dedi",
+            "umur": 35,
+            "alamat": "Jl. Thamrin",
+            "penyakit": "Darah tinggi",
+            "tanggal_masuk": "2024-04-10"
+        },
+        {
+            "nama": "Eka",
+            "umur": 28,
+            "alamat": "Jl. Kuningan",
+            "penyakit": "Tipes",
+            "tanggal_masuk": "2024-05-05"
+        },
+        {
+            "nama": "Fani",
+            "umur": 22,
+            "alamat": "Jl. Senayan",
+            "penyakit": "Maag",
+            "tanggal_masuk": "2024-06-01"
+        },
+        {
+            "nama": "Gina",
+            "umur": 32,
+            "alamat": "Jl. Tanah Abang",
+            "penyakit": "Tipes",
+            "tanggal_masuk": "2024-06-02"
+        },
+        {
+            "nama": "Hadi",
+            "umur": 45,
+            "alamat": "Jl. Bekasi",
+            "penyakit": "Asam urat",
+            "tanggal_masuk": "2024-06-03"
+        },
+        {
+            "nama": "Indra",
+            "umur": 29,
+            "alamat": "Jl. Depok",
+            "penyakit": "Maag",
+            "tanggal_masuk": "2024-06-04"
+        },
+        {
+            "nama": "Joko",
+            "umur": 50,
+            "alamat": "Jl. Bogor",
+            "penyakit": "Darah tinggi",
+            "tanggal_masuk": "2024-06-05"
+        }
+    ]
+}
